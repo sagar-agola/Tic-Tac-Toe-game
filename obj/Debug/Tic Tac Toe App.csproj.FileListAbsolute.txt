@@ -1,0 +1,11 @@
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\bin\Debug\Tic Tac Toe App.exe.config
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\bin\Debug\Tic Tac Toe App.exe
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\bin\Debug\Tic Tac Toe App.pdb
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\obj\Debug\Tic Tac Toe App.csprojResolveAssemblyReference.cache
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\obj\Debug\Tic_Tac_Toe_App.TicTacToi.resources
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\obj\Debug\Tic_Tac_Toe_App.Properties.Resources.resources
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\obj\Debug\Tic Tac Toe App.csproj.GenerateResource.Cache
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\obj\Debug\Tic Tac Toe App.csproj.CoreCompileInputs.cache
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\obj\Debug\Tic Tac Toe App.exe
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\obj\Debug\Tic Tac Toe App.pdb
+C:\Users\N3o\source\repos\Tic Tac Toe App\Tic Tac Toe App\obj\Debug\Tic_Tac_Toe_App.IGN.resources
